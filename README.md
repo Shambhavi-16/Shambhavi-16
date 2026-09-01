@@ -53,7 +53,7 @@ Learning → Building → Improving → Repeating 🚀
 I'm always interested in connecting with fellow students, developers, and tech enthusiasts. If you're also learning programming, feel free to connect and learn together!
 
 ⭐ Thanks for visiting my profile!
-<!--
+
 **Shambhavi-16/Shambhavi-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
