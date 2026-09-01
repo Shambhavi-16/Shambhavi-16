@@ -77,7 +77,7 @@ I'm developing a Tech Help Project with the goal of making technology-related in
 💻 Becoming a Better Developer
 
 🤝 Let's Connect
-<p align="left"> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://github.com/Shambhavi-16"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://in.linkedin.com/in/shambhavi-chouhan-2b08b037a"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 💭 Developer Quote
 
 "Every expert was once a beginner." 🌱
