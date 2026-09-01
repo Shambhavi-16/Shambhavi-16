@@ -57,10 +57,11 @@ I'm developing a Tech Help Project with the goal of making technology-related in
   <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
-🗓️ Last Updated: September 1, 2026 — 12:12 PM IST
+📅 Last Updated: September 1, 2026 — 12:12 PM IST
 
 👨‍💻 My Developer Journey  
 🎓 Integrated MCA
+
 
 🧑‍💻 My Developer Journey
 🎓 Integrated MCA
