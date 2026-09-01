@@ -1,4 +1,4 @@
-👋 Hi, I'm [Shambhavi Chouhan]
+👋 Hi, I'm Shambhavi Chouhan
 🎓 Integrated MCA Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Profile Visitors" /> </p>
 🌟 About Me
