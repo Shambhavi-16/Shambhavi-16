@@ -54,7 +54,7 @@ I'm developing a Tech Help Project with the goal of making technology-related in
 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://m.media-amazon.com/images/I/61y-xHUi9qL._AC_UF894,1000_QL80_.jpg" />
+  <img src="m.media-amazon.com/images/I/61y-xHUi9qL._AC_UF894,1000_QL80_.jpg" />
 </p>
 
 📅 Last Updated: September 1, 2026 — 12:12 PM IST
