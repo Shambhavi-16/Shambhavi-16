@@ -1,55 +1,77 @@
-Hi there! 👋 I'm [Your Name]
+👋 Hi, I'm [Your Name]
+🎓 Integrated MCA Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Profile Visitors" /> </p>
+🌟 About Me
 
-🎓 Integrated MCA | 1st Semester Student
-💻 Aspiring Software Developer
-🌱 Currently learning C Programming
-🛠️ Currently working on a Tech Help Project
-❤️ I enjoy coding, learning new technologies, and building projects.
+🎓 I'm a 1st-semester Integrated MCA student passionate about programming and technology.
 
-👨‍💻 About Me
+💻 Currently learning C Programming and strengthening my programming fundamentals.
 
-I'm a first-semester Integrated MCA student who is passionate about programming and technology. I'm currently building my fundamentals in C programming and exploring the world of software development.
+🧠 I enjoy coding, problem-solving, and exploring new technologies.
 
-I believe in learning by doing, so I'm constantly experimenting with code, solving problems, and working on small projects to improve my skills.
+🛠️ Currently working on a Tech Help Project.
+
+🌱 I'm at the beginning of my developer journey and excited to learn, build, and improve every day.
 
 🚀 Currently Learning
-🔹 C Programming
-🔹 Programming Fundamentals
-🔹 Problem Solving & Logical Thinking
-🔹 Git & GitHub
-🔹 Exploring Software Development
+<p align="left"> <img src="https://img.shields.io/badge/C-Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Git-Fundamentals-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-Learning-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
+📚 Exploring Next
+<p align="left"> <img src="https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Python-Exploring-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-Exploring-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-Exploring-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p>
 🛠️ Current Project
 💡 Tech Help Project
 
-I'm currently working on a Tech Help project focused on helping users with common technology-related problems and making technical information easier to understand.
+🚧 Currently working on it...
 
-More details coming soon! 🚧
+I'm developing a Tech Help Project with the goal of making technology-related information and assistance easier and more accessible.
 
-📚 Goals
-Become strong in programming fundamentals
-Build more real-world projects
-Learn new programming languages and technologies
-Improve my problem-solving skills
-Contribute to open-source projects
-Build a strong developer portfolio
-💻 Tech Stack
+🔨 More features and details coming soon!
 
-Currently working with:
+💻 What I Like
+💡 Learning new things
+💻 Writing code
+🧩 Solving programming problems
+🛠️ Building small projects
+🌐 Exploring technology
+📖 Improving my programming fundamentals
+🎯 My Goals
 
-C Git GitHub  Python  HTML
+🎓 Build a strong foundation in computer science
 
-Exploring next:
+💻 Become a better programmer
 
-C++  CSS JavaScript
+🚀 Build meaningful real-world projects
 
-📊 GitHub Journey
+🧠 Improve problem-solving and logical thinking
 
-I'm just getting started, and this profile is a record of my journey from learning the basics to building real-world software.
+🌱 Learn multiple programming languages
 
-Learning → Building → Improving → Repeating 🚀
+🤝 Contribute to open-source projects
+
+📂 Build a strong GitHub portfolio
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" /> </p>
+🧑‍💻 My Developer Journey
+🎓 Integrated MCA
+       ↓
+🌱 Learning C
+       ↓
+🧩 Solving Problems
+       ↓
+🛠️ Building Projects
+       ↓
+🚀 Learning More Technologies
+       ↓
+💻 Becoming a Better Developer
 
 🤝 Let's Connect
+<p align="left"> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+💭 Developer Quote
 
-I'm always interested in connecting with fellow students, developers, and tech enthusiasts. If you're also learning programming, feel free to connect and learn together!
+"Every expert was once a beginner." 🌱
 
-⭐ Thanks for visiting my profile!
+⭐ If you find something interesting in my repositories, feel free to explore!
+
+Thanks for visiting my profile! 🚀
