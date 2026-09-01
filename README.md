@@ -50,7 +50,7 @@ I'm developing a Tech Help Project with the goal of making technology-related in
 📂 Build a strong GitHub portfolio
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shambhavi-16&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shambhavi-16&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
 🔥 GitHub Streak
 
 <p align="center">
