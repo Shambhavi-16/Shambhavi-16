@@ -94,6 +94,38 @@ I'm working towards developing projects that strengthen my programming skills an
 
   <i>Every contribution is a step towards something bigger.</i>
 
+  <!-- CONTRIBUTION SNAKE -->
+
+<h2 align="center">🐍 MY CONTRIBUTION JOURNEY</h2>
+
+<p align="center">
+  <i>Every contribution is a step towards something bigger.</i>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Shambhavi-16/Shambhavi-16/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Shambhavi-16/Shambhavi-16/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Shambhavi's GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Shambhavi-16/Shambhavi-16/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <b>BUILD. LEARN. CONTRIBUTE. REPEAT.</b>
+</p>
+
+<!-- END CONTRIBUTION SNAKE -->
+
   <br><br>
 
   <picture>
