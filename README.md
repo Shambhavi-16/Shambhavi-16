@@ -1,99 +1,147 @@
-👋 Hi, I'm Shambhavi Chouhan
-🎓 Integrated MCA Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast
-<p align="left"> </p>
-🌟 About Me
+<!-- ================================================== -->
+<!--              SHAMBHAVI'S GITHUB README             -->
+<!-- ================================================== -->
 
-🎓 I'm a 1st-semester Integrated MCA student passionate about programming and technology.
+<div align="center">
 
-💻 Currently learning C Programming and strengthening my programming fundamentals.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:06B6D4&height=200&section=header&text=SHAMBHAVI%20CHOUHAN&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Think%20%7C%20Code%20%7C%20Secure%20%7C%20Innovate&descAlignY=58&descSize=17" width="100%" />
 
-🧠 I enjoy coding, problem-solving, and exploring new technologies.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Aspiring+Cybersecurity+Professional;Programming+Enthusiast;Curious+Mind+%7C+Creative+Soul;Learning+Today%2C+Securing+Tomorrow" alt="Typing SVG" />
 
-🛠️ Currently working on a Tech Help Project.
+</div>
 
-🌱 I'm at the beginning of my developer journey and excited to learn, build, and improve every day.
+---
 
-🚀 Currently Learning
-<p align="left"> <img src="https://img.shields.io/badge/C-Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Git-Fundamentals-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-Learning-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
-📚 Exploring Next
-<p align="left"> <img src="https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Python-Exploring-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-Exploring-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-Exploring-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p>
-🛠️ Current Project
-💡 Tech Help Project
+## 👩🏻‍💻 About Me
 
-🚧 Currently working on it...
+Hello! I'm **Shambhavi Chouhan**, an MCA student at **Devi Ahilya Vishwavidyalaya (DAVV), Indore**.
 
-I'm developing a Tech Help Project with the goal of making technology-related information and assistance easier and more accessible.
+I'm passionate about technology, programming and exploring the fascinating world of cybersecurity.
 
-🔨 More features and details coming soon!
+I enjoy understanding how things work, solving problems through code and continuously challenging myself to learn something new.
 
-💻 What I Like
-💡 Learning new things
-💻 Writing code
-🧩 Solving programming problems
-🛠️ Building small projects
-🌐 Exploring technology
-📖 Improving my programming fundamentals
-🎯 My Goals
+- 🎓 Pursuing MCA at DAVV, Indore.
+- 🔐 Interested in Cybersecurity and Ethical Hacking.
+- 💻 Exploring programming and software development.
+- 🌱 Currently strengthening my C programming and problem-solving skills.
+- 🚀 Interested in building practical projects and learning new technologies.
+- 🤝 Open to internships, collaborations and learning opportunities.
 
-🎓 Build a strong foundation in computer science
+---
 
-💻 Become a better programmer
+## 🛡️ Technical Interests
 
-🚀 Build meaningful real-world projects
+<div align="center">
 
-🧠 Improve problem-solving and logical thinking
+| Area | Interests |
+|:---:|:---|
+| 🔐 Cybersecurity | Security Fundamentals, Ethical Hacking Concepts |
+| 💻 Programming | C Programming, Logic Building |
+| 🧠 Problem Solving | Algorithms, Computational Thinking |
+| 🌐 Technology | Software Development, Emerging Technologies |
 
-🌱 Learn multiple programming languages
+</div>
 
-🤝 Contribute to open-source projects
+---
 
-📂 Build a strong GitHub portfolio
+## ⚙️ Tech Stack
 
-📊 GitHub Stats
-<h2 align="center">📊 GitHub Statistics</h2>
+### Programming Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" />
+</div>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Shambhavi-16&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shambhavi-16&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+### Tools & Platforms
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" alt="Tools" />
+</div>
 
-🔥 GitHub Streak
+### Currently Exploring
+- Cybersecurity fundamentals
+- Ethical hacking concepts
+- Programming and data structures
+- Software development
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+---
 
-📅 Last Updated: September 1, 2026 — 12:12 PM IST
+## 🚀 Projects & Development
 
-👨‍💻 My Developer Journey  
-🎓 Integrated MCA
+I believe the best way to learn technology is by building with it.
 
+I'm working towards developing projects that strengthen my programming skills and help me understand real-world applications of technology.
 
-🧑‍💻 My Developer Journey
-🎓 Integrated MCA
-       ↓
-🌱 Learning C
-       ↓
-🧩 Solving Problems
-       ↓
-🛠️ Building Projects
-       ↓
-🚀 Learning More Technologies
-       ↓
-💻 Becoming a Better Developer
+📌 Explore my repositories:
 
-🤝 Let's Connect
-<p align="left"> <a href="https://github.com/Shambhavi-16"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://in.linkedin.com/in/shambhavi-chouhan-2b08b037a"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-💭 Developer Quote
+**[View All My Projects →](https://github.com/Shambhavi-16?tab=repositories)**
 
-"Every expert was once a beginner." 🌱
+---
 
-⭐ If you find something interesting in my repositories, feel free to explore!
+## 📊 GitHub Analytics
 
-Thanks for visiting my profile! 🚀
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shambhavi-16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=9D8BFA&text_color=FFFFFF" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shambhavi-16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+
+</div>
+
+---
+
+## 🐍 My Contribution Journey
+
+<div align="center">
+
+  <i>Every contribution is a step towards something bigger.</i>
+
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shambhavi-16/Shambhavi-16/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shambhavi-16/Shambhavi-16/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Shambhavi-16/Shambhavi-16/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+
+</div>
+
+---
+
+## 🎨 Beyond Technology
+
+There's more to me than just code!
+
+- 🎤 **Public Speaking:** Love delivering speeches and expressing ideas.
+- 👗 **Fashion Designing:** Interested in creativity, styling and design.
+- 🎨 **Drawing:** Enjoy artistic expression and visual creativity.
+- 🌍 **Social Networking:** A social butterfly who enjoys meeting people and building connections.
+
+I believe creativity and technical thinking make a powerful combination.
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+  <a href="https://github.com/Shambhavi-16">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- Replace YOUR_LINKEDIN_USERNAME with your LinkedIn username -->
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  <h3>✨ THINK DIFFERENTLY. BUILD FEARLESSLY. SECURE THE FUTURE. ✨</h3>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0D1117&height=100&section=footer" width="100%" />
+
+</div>
+
+<!-- END OF README -->
