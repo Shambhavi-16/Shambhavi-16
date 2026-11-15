@@ -94,7 +94,7 @@ I'm working towards developing projects that strengthen my programming skills an
 
   <i>Every contribution is a step towards something bigger.</i>
 
-  <!-- CONTRIBUTION SNAKE -->
+  </picture>   <!-- CONTRIBUTION SNAKE -->
 
 <h2 align="center">🐍 MY CONTRIBUTION JOURNEY</h2>
 
@@ -117,7 +117,6 @@ I'm working towards developing projects that strengthen my programming skills an
       src="https://raw.githubusercontent.com/Shambhavi-16/Shambhavi-16/output/github-contribution-grid-snake.svg"
       width="100%"
     />
-  </picture>
 </p>
 
 <p align="center">
