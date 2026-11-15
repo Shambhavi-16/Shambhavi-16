@@ -159,7 +159,7 @@ I believe creativity and technical thinking make a powerful combination.
   </a>
 
   <!-- Replace YOUR_LINKEDIN_USERNAME with your LinkedIn username -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/linkedin.com/in/shambhavi-chouhan-2b08b037a/)/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
